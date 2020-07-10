@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-**abdnafees/abdnafees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am a computer scientist and engineer working as a Systems Engineer at a health tech company in Lahore, Pakistan.
 
 - 🔭 I’m currently working on a web app for content creators using ReactJs
 - 🌱 I’m currently learning machine learning, deep learning and advanced Python
