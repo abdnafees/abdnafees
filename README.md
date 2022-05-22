@@ -1,12 +1,22 @@
 ### Hi there 👋
 
-I am a computing professional working as an implementation analyst at arbisoft in Lahore, Pakistan.
+## I am Abdullah Nafees from Lahore
 
-- 🔭 I’m currently working on a web app for content creators using ReactJs
-- 🌱 I’m currently learning machine learning, deep learning and advanced Python
-- 👯 I’m looking to collaborate on open source web app projects
-- 🤔 I’m looking for help with collaborating on different learning material for basic web app dev, machine learning and basic CI/CD
-- 💬 Ask me about systems engineering, machine learning
-- 📫 How to reach me: drop me an email at abdullahnafees23@gmail.com
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact:  I love milo
+I did my *Bachelors in Computer Science* in 2014 from Forman Christian College, Lahore. 
+
+During my bachelors I was interested and studied Computer Architecture, Systems Programming, Embedded Systems, and Computer Vision.
+
+My final year project was a smart doorbell called **S.E.R.I.C.** which stands for:
+**S**mart
+**E**mbedded
+**R**edundant
+**I**OT
+**C**amera. It used Raspberry Pi and OpenBR to perform facial recognition to perform smart functions such as open a door, send and recieve messages, and stream live video.
+
+After my bachelors, I worked as an Implementation Engineer at a local health tech startup where I was responsible for implementing digital solutions for hospital management.
+
+I joined Arbisoft in 2020 as an Implementation Analyst and worked towards being a Customer Success Specialist. 
+
+Currently, I am undergoing a 2 month mentorship program to learn **Python** and work towards a more technical role.
+
+You can reach out to me if you would like to talk about programming, AI, DL and anything related to pop culture such as _Back to the Future_.
