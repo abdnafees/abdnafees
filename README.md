@@ -17,6 +17,6 @@ After my bachelors, I worked as an Implementation Engineer at a local health tec
 
 I joined Arbisoft in 2020 as an Implementation Analyst and worked towards being a Customer Success Specialist. 
 
-Currently, I am undergoing a 2 month mentorship program to learn **Python** and work towards a more technical role.
+Currently, I am working on Django and Django-REST frameworks.
 
 You can reach out to me if you would like to talk about programming, AI, DL and anything related to pop culture such as _Back to the Future_.
