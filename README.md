@@ -17,6 +17,10 @@ After my bachelors, I worked as an Implementation Engineer at a local health tec
 
 I joined Arbisoft in 2020 as an Implementation Analyst and worked towards being a Customer Success Specialist. 
 
-Currently, I am working on Django and Django-REST frameworks.
+Currently, I am working on Django, Django-REST frameworks and FASTAPI.
 
 You can reach out to me if you would like to talk about programming, AI, DL and anything related to pop culture such as _Back to the Future_.
+
+[Personal website](https://abdnafees.com)
+
+[Project portfolio](https://abdnafees.com/projects)
