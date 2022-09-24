@@ -23,4 +23,4 @@ You can reach out to me if you would like to talk about programming, AI, DL and 
 
 [Personal website](https://abdnafees.com)
 
-[Project portfolio](https://abdnafees.com/projects)
+[Project portfolio](https://abdnafees.com/pages/projects)
