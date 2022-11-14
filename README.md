@@ -15,7 +15,7 @@ My final year project was a smart doorbell called **S.E.R.I.C.** which stands fo
 
 After my bachelors, I worked as an Implementation Engineer at a local health tech startup where I was responsible for implementing digital solutions for hospital management.
 
-I joined Arbisoft in 2020 as an Implementation Analyst and worked towards being a Customer Success Specialist. 
+I joined Arbisoft in 2020 as an Implementation Analyst.
 
 Currently, I am working on Django, Django-REST frameworks and FASTAPI.
 
