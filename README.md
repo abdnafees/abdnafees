@@ -17,6 +17,8 @@ After my bachelors, I worked as an Implementation Engineer at a local health tec
 
 I joined Arbisoft in 2020 as an Implementation Analyst.
 
+I am currently working at Arbisoft as a Software Engineer.
+
 You can reach out to me if you would like to talk about programming, AI, DL and anything related to pop culture such as _Back to the Future_.
 
 [Personal website](https://abdnafees.com)
