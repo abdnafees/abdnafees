@@ -23,5 +23,5 @@ I am currently designing a Bootcamp for fresh grads at Arbisoft in partnership w
 
 Feel free to contact me for contract, freelance, open source opportunities or if you would like to talk about programming, AI, DL, and anything related to pop culture such as _Back to the Future_.
 
-[Personal website](https://bento.com/abdnafees)
+[Personal website](https://bento.me/abdnafees)
 
