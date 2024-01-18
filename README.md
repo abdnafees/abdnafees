@@ -15,11 +15,13 @@ My final year project was a smart doorbell called **S.E.R.I.C.** which stands fo
 
 After my bachelor's, I worked as an Implementation Engineer at a local health tech startup where I was responsible for implementing digital solutions for hospital management.
 
-I joined Arbisoft in 2020 as an Implementation Analyst.
+I joined Arbisoft in 2020 as an Implementation Analyst but moved to software engineering 2 years ago.
 
-I am currently working at Arbisoft as a Software Engineer where I am working on a custom Moodle-based LMS using PHP, JavaScript, and React.
+I am currently working at Arbisoft as a Software Engineer where I have worked on a custom Moodle-based LMS using PHP, JavaScript, and React.
 
-Feel free to contact me if you would like to talk about programming, AI, DL, and anything related to pop culture such as _Back to the Future_.
+I am currently designing a Bootcamp for fresh grads at Arbisoft in partnership with LUMS.
 
-[Personal website](https://abdnafees.github.io)
+Feel free to contact me for contract, freelance, open source opportunities or if you would like to talk about programming, AI, DL, and anything related to pop culture such as _Back to the Future_.
+
+[Personal website](https://bento.com/abdnafees)
 
