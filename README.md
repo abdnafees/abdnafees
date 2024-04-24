@@ -1,8 +1,7 @@
 
 ## Languages and Roadmaps
-[https://roadmap.sh/rust](https://roadmap.sh/rust?s=64a9706b1dadb37b72b903ee)
-[https://roadmap.sh/python](https://roadmap.sh/python?s=64a9706b1dadb37b72b903ee)
-[https://roadmap.sh/javascript](https://roadmap.sh/javascript?s=64a9706b1dadb37b72b903ee)
+
+![https://roadmap.sh/u/abdnafees](https://api.roadmap.sh/v1-badge/wide/64a9706b1dadb37b72b903ee?variant=dark&roadmaps=rust%2Cpython%2Cjavascript)
 
 Go write code.
 
