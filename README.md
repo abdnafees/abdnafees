@@ -5,5 +5,6 @@
 
 Go write code.
 
-[LinkediIn](https://www.linkedin.com/in/abdnafees/)
+[LinkedIn](https://www.linkedin.com/in/abdnafees/)
+
 [Personal website](https://bento.me/abdnafees)
